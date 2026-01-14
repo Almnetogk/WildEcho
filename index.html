@@ -1,57 +1,59 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>WildEcho | Nature Blog</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="favicon.png" type="image/png">
 </head>
+
 <body>
+
+    <audio id="audio-hero" loop src="music/night-forest-soundscape-158701.mp3"></audio>
+    <audio id="audio-peaks" loop src="music/soft-wind-318856.mp3"></audio>
+    <audio id="audio-deep" loop src="music/underwater-ambience-6201.mp3"></audio>
 
     <nav class="navbar">
         <div class="logo">WILDECHO</div>
         <ul class="nav-links">
-            <li><a href="#">Forests</a></li>
-            <li><a href="#">Mountains</a></li>
-            <li><a href="#">Oceans</a></li>
-            <li><a href="#">About</a></li>
+            <li><a href="#hero">Forests</a></li>
+            <li><a href="#peaks">Mountains</a></li>
+            <li><a href="#deep">Oceans</a></li>
         </ul>
     </nav>
 
-    <header class="section hero">
+    <header id="hero" class="section hero">
         <div class="content">
             <h4 class="subtitle">Featured Story</h4>
             <h1 class="title">The Whispering Pines</h1>
             <p>Discover the hidden language of the ancient northern forests.</p>
-            <button class="btn">READ STORY</button>
+            <button class="btn" onclick="initializeAudio()">START EXPERIENCE</button>
         </div>
     </header>
 
-    <section class="section peaks">
-        
+    <section id="peaks" class="section peaks">
         <div class="content">
-            
             <h1 class="title">Above the Clouds</h1>
             <p>A journey through the highest peaks of the Himalayas.</p>
-            <button class="btn">EXPLORE</button>
+            <button class="btn">EXPERIENCE</button>
         </div>
     </section>
 
-    <section class="section deep">
+    <section id="deep" class="section deep">
         <div class="content">
             <h1 class="title">Deep Blue Mystery</h1>
             <p>Understanding the vital pulse of our coral reefs.</p>
-            <button class="btn">LEARN MORE</button>
+            <button class="btn">EXPERIENCE</button>
         </div>
     </section>
 
     <footer class="footer">
-        <p>&copy; 2026 WildEcho Blog Inspired by Nature.</p>
-        <div class="socials">
-            <a href="#">Instagram</a>
-            <a href="#">Twitter</a>
-        </div>
+        <p>&copy; 2026 WildEcho Journal. Inspired by Nature.</p>
     </footer>
 
+    <script src="script.js"></script>
 </body>
+
 </html>
