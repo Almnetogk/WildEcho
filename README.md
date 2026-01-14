@@ -9,6 +9,9 @@ Built as a small experiment in design and calmness, WildEcho focuses on mood ove
 🌍 Live here:  
 https://harikrishnank9.github.io/WildEcho/
 
+
+<img width="923" height="877" alt="image" src="https://github.com/user-attachments/assets/61abc6f0-67ad-4aa1-bbd1-3b667a7a7ae2" />
+
 ---
 
 ### Built With
